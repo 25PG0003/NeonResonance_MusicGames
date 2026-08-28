@@ -1,0 +1,7 @@
+﻿Music,Jacket,MusicPath,Preview,Easy,Normal,Hard,BPM
+koyoi,Assets/SelectMusic/jacket/koyoi_jacket.png,Assets/music/koyoikimihatuki.wav,45,Assets/chart/koyoi_easy.csv,Assets/chart/koyoi_normal.csv,Assets/chart/koyoi_hard.csv,178
+arc,Assets/SelectMusic/jacket/arc.png,Assets/music/arc.wav,20,Assets/chart/arc_easy.csv,Assets/chart/arc_normal.csv,Assets/chart/arc_hard.csv,262
+hydro,Assets/SelectMusic/jacket/hydrophilic_Star.png,Assets/music/hydrophilic_Star.wav,30,Assets/chart/hydro_easy.csv,Assets/chart/hydro_normal.csv,Assets/chart/hydro_hard.csv,194
+Crystal,Assets/SelectMusic/jacket/Crystal.png,Assets/music/Crystal_brilliance.wav,45,Assets/chart/Crystal_easy.csv,Assets/chart/Crystal_normal.csv,Assets/chart/Crystal_hard.csv,220
+sousouzenya,Assets/SelectMusic/jacket/sousouzenya.png,Assets/music/sousouzenya.wav,0,Assets/chart/sousouzenya_easy.csv,Assets/chart/sousouzenya_normal.csv,Assets/chart/sousouzenya_hard.csv,186
+nannzigatame,Assets/SelectMusic/jacket/imananzigatameni.png,Assets/music/imananzi.wav,0,Assets/chart/imananzi_easy.csv,Assets/chart/imananzi_normal.csv,Assets/chart/imananzi_hard.csv,208
